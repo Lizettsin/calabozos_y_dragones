@@ -1,0 +1,18 @@
+body {
+  background: #1a1a1a;
+  color: #eee;
+}
+
+.ion-toolbar {
+  --background: #2a2a72;
+  --color: #fff;
+}
+
+.list-group-item {
+  background: #2f2f4f;
+  color: #ccc;
+}
+
+.ion-button {
+  min-width: 120px;
+}
